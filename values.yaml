@@ -1,0 +1,4 @@
+# Helm values for Rancher installation
+hostname: rancher.local # Change for your own local domain
+replicas: 1 # by default is 3
+bootstrapPassword: ac66Ppp763fYCk4R # set your own password
