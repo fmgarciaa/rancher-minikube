@@ -1,0 +1,25 @@
+# macOS system files
+.DS_Store
+
+# Minikube files
+.minikube/
+*.kube/
+
+# Helm files
+helmfile.lock
+*.yaml~
+
+# Node modules (if you're using any JavaScript tools)
+node_modules/
+
+# Logs
+*.log
+
+# IDE/editor files
+.vscode/
+.idea/
+*.swp
+
+# Operating System files
+Thumbs.db
+
